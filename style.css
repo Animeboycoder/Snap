@@ -1,0 +1,61 @@
+body {
+  color: hsl(0, 0%, 41%);
+  background-color: hsl(0, 0%, 98%);
+  font-family: "Epilogue", sans-serif;
+}
+/* Navigation */
+.navbar {
+  background-color: hsl(0, 0%, 98%);
+}
+
+.navbar-brand {
+  color: hsl(0, 0%, 8%);
+  font-weight: 700;
+  font-size: 2rem;
+}
+.nav-link {
+  font-size: 0.95rem;
+  color: hsl(0, 0%, 41%);
+}
+.dropdown-item img {
+  margin-right: 10px;
+}
+.nav-item {
+  margin: 0 10px 0;
+}
+.nav-link :hover {
+  color: hsl(0, 0%, 8%);
+}
+.nav-item .btn {
+  border-radius: 10px;
+  border: solid 2px hsl(0, 0%, 41%);
+}
+.nav-item .btn:hover {
+  border-color: hsl(0, 0%, 8%);
+  background-color: hsl(0, 0%, 98%);
+  color: hsl(0, 0%, 8%);
+}
+/* Main */
+
+h1{
+    color: hsl(0, 0%, 8%);
+    font-size: 4rem;
+    font-weight: 700;
+    margin-top: 12%;
+    margin-bottom: 2rem;
+}
+p{
+    margin-bottom: 1.95rem;
+}
+
+.col-md-6 .pic{
+width: 95%;
+}
+.brands img{
+margin-top: 4rem;
+}
+
+
+/* .navbar-nav{
+    gap: 10%;
+} */
